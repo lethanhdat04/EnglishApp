@@ -96,6 +96,7 @@ Khi khởi động client, bạn sẽ thấy menu:
 
 **Tài khoản mẫu:**
 - Email: `student@example.com` | Password: `student123` (học sinh)
+- Email: `student2@example.com` | Password: `student123` (học sinh)
 - Email: `sarah@example.com` | Password: `teacher123` (giáo viên)
 
 Hoặc bạn có thể đăng ký tài khoản mới (chọn option 2).
